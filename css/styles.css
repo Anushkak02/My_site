@@ -1,0 +1,87 @@
+.intro{
+  background-color: #EAF6F6;
+  margin-top: 0;
+  font-family: Helvetica,Arial,sans-serif;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  color: #66BFBF;
+}
+h2{
+  text-align: center;
+  color: #66BFBF;
+}
+.tech{
+  position: absolute;
+  left: 20px;
+  top:10px;
+  width: 90px;
+  height: 80px;
+}
+.centerImage{
+  background: black;
+}
+.centerImage:hover{
+  background: yellow;
+}
+.content{
+  text-align: center;
+  margin-top: 80px;
+  font-size: 15px;
+}
+.me{
+  display: inline-block;
+  height: 200px;
+  width:200px;
+}
+hr{
+  width: 30%;
+  color:grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:2px;
+  height: 0;
+}
+.fl{
+  margin-left: 100px;
+  text-align: justify;
+  float: left;
+  width: 250px;
+  height: 200px;
+  background-color: black;
+}
+.fl: hover{
+  background: yellow;
+}
+.edu{
+  float:right;
+  text-align: justify;
+  width: 250px;
+  height: 200px;
+}
+.edu:hover{
+  background: yellow;
+}
+ul{
+  display: inline-block;
+  text-align: center;
+}
+.btn{
+  background: #66BFBF;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #f7f7f7;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  width: 250px;
+  margin: 0 auto;
+}
+.btn:hover{
+  background: black;
+}
+.contact{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  text-align: center;
+}
