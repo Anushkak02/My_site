@@ -68,7 +68,7 @@ ul{
   text-align: center;
 }
 .btn{
-  background: #66BFBF;
+  background: black;
   border-radius: 28px;
   font-family: Arial;
   color: #f7f7f7;
@@ -78,7 +78,7 @@ ul{
   margin: 0 auto;
 }
 .btn:hover{
-  background: black;
+  background: #66BFBF;
 }
 .contact{
   background-color: #66BFBF;
